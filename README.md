@@ -18,7 +18,7 @@ Mail : letzzang@gmail.com
 [GNSD]()
 - 주임 - 2014/12 ~ 2016/02(1년 3개월)
 
-[큐빅테크]
+[큐빅테크]()
 - 주임 - 2013/12 ~ 2014/12(1년)
 
 [m3mobile](http://www.m3mobile.co.kr/)
