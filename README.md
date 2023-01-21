@@ -40,7 +40,7 @@ Mail : letzzang@gmail.com
   - Business logic은 Combine, Concurrency 베이스를 기반으로 MVVM 아키텍쳐를 이용하여 개발
   - 장치와 통신은 Socket 통신으로 개발
 - Link : https://apps.apple.com/kr/app/hitithub/id1485395039?l=en
-- 앱 동작 영상 Link : https://youtu.be/k4dtcwUs8rw
+- 앱 동작 영상 Link : https://youtu.be/erWdBo8ZUoA
 - 앱 동작 영상 Link2 : https://youtu.be/3JvoyJ0Iksw
 
   <img src="images/hub/1.png" width="160"/><img src="images/hub/2.png" width="160"/><img src="images/hub/3.png" width="160"/><img src="images/hub/4.png" width="160"/><img src="images/hub/5.png" width="160"/><img src="images/hub/6.png" width="160"/><img src="images/hub/7.png" width="160"/>
